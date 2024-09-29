@@ -10,7 +10,7 @@ This project is a web-based calculator built using React. The calculator support
 
 
 
-![Demo](demo.png)
+![Demo](src/images/demo.png)
 
 
 ## Technologies Used 🛠️
