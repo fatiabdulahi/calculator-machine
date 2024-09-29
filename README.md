@@ -1,46 +1,77 @@
-# Calculator Project 🚀🚀
+# calculator
 
-## Description 📝
+## Project Description 📝
+
+> Provide a detailed overview of your project. Explain what it does, why it is useful, and any other relevant information.
+
 This project is a web-based calculator built using React. The calculator supports basic arithmetic operations and handles various edge cases, ensuring a smooth and intuitive user experience. The project fulfills the user stories required to pass all tests, and it uses formula logic to evaluate expressions, maintaining the order of operations.
-
 
 ## Demo 📸
 
-![Demo](./src/images/cal.png)
-![FreeCodeCamp](./src/images/f3.png)
-<br>
- [Live-link](https://calculator-section--gilded-moxie-f62af8.netlify.app/)
 
-## Features ⭐
-- Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Supports input of decimal numbers.
-- Handles consecutive operator inputs by using the last entered operator.
-- Clears the display with a single button click.
-- Displays the result of the computation when the equals button is pressed.
-- Precision handling for operations resulting in decimal values.
-- User-friendly and accessible design.
+
+![Demo](demo.png)
 
 
 ## Technologies Used 🛠️
-- React js 
-- HTML, CSS, and JavaScript
+
+List the technologies or tools you used to develop your project. You can also include the libraries or frameworks you used.
+
+Examples:
+
+- HTML
+- CSS
+- JavaScript
+- react
+
+
+
+## Installation 💻
+
+Folow these steps to set up the project on your local machine Ensure you have the following software installed on your machine
+
+# git clone 
+
+https://github.com/fatiabdulahi/calculator
+
+## Usage 🎯
+
+you can access to my project through git clone -git clone the HTTP or My SSH code link from the repository you wat to clone
+
+# git clone
 
 ## How to Run the Project
-1. Clone the repository to your local machine.
-2. Install the dependencies by running `npm install` or `yarn install`.
-3. Start the development server by running `npm start` or `yarn start`.
-4. Open your web browser and navigate to `http://localhost:3000` to view the Markdown previewer.
 
-## Testing
-All the required user stories and tests have been successfully completed and passed.
+Clone the repository to your local machine.
+Install the dependencies by running npm install or yarn install.
+Start the development server by running npm start or yarn start.
+Open your web browser and navigate to http://localhost:3000 to view the Markdown previewer.
 
-## Acknowledgments 📝
-This project was built as part of the FreeCodeCamp curriculum. The project requirements and the provided Calculator application example were sourced from the FreeCodeCamp website.
 
-## Author 👩‍💻
-- LinkedIn: [Mehria saqibi](https://www.linkedin.com/in/mehria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [email](mosawermh@gmail.com)
+## Features ⭐
+Play various drum sounds by clicking on the drum pads or pressing the corresponding keyboard keys.
+The current drum sound being played is displayed in the #display element.
+Responsive design that adapts to different screen sizes.
+
+
+## Author 👩‍💻 FATIMA ABDULLAHI
+
+Provide your name and a link to your Social Media profiles. You can also include your email address.
+
+
+- LinkedIn:https://www.linkedin.com/in/fatima-abdullahi-6288662b2
+- Email: fatima333abdullahi@gmail.com
 
 ## Contributing 🤝
 
-Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. Ensure that your code follows the project's coding standards and guidelines.
+Specify the license under which your project is distributed. Include any relevant copyright or attribution notices.
+We welcome contributions from the community! Please follow the guidelines below to contribute to our project.
+1: Fork the Repository: Click the "Fork" button at the top right of the repository page to create a copy of the repository on your GitHub account.
+2: Clone Your Fork: Clone your forked repository to your local machine using the following command:git clone https://github.com/yourusername/yourprojectname.git
+3: Create a Branch: Create a new branch for your work to ensure your changes are isolated from the main branch:git checkout -b feature-or-bugfix-description
+4: Make Your Changes: Implement your changes, whether fixing a bug or adding a new feature. Be sure to follow the project's coding standards and guidelines.
+5: Commit Your Changes: Commit your changes with a descriptive commit message:git add . git commit -m "Description of the changes"
+6: Push to Your Fork: Push your changes to your forked repository:git push origin feature-or-bugfix-description
+7: Submit a Pull Request: Go to the original repository and submit a pull request from your forked repository. Provide a clear and concise description of your changes and why they should be merged.
+
+## License 📜
